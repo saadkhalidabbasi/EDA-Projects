@@ -38,8 +38,3 @@ Welcome to the **EDA Projects** repository! This collection showcases some of my
   - **Notebooks**: Jupyter notebooks with step-by-step analysis.
   - **Reports**: PDF/Markdown reports summarizing key findings.
   - **Data**: Sample datasets (if permissible).
-
-## 📝 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/EDA-Projects.git
